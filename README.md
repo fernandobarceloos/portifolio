@@ -31,8 +31,9 @@ Inclui:
 
 ---
 
-## 🚀 Como Visualizar
+## 👨‍💻 Autor  
+**Fernando Barcelos**  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandobarceloos/)  
+✉️ fernandobarcelos.developer@gmail.com  
 
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/fernandobarceloos/portifolio.git
+---
